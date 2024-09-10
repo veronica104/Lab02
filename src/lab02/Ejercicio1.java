@@ -67,7 +67,7 @@ public class Ejercicio1 {
                  System.out.println("Opcion invalida.");
             }
         }while (opc != 6);
-        scanner.close();
+        //scanner.close();
     }
       //media
         private  double calcularmedia(int[]arreglo){
